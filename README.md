@@ -51,7 +51,7 @@ var config = {
 Este projeto é distribuído sob a licença MIT. Sinta-se à vontade para modificá-lo e utilizá-lo conforme sua necessidade.
 
 ## Autor
-Desenvolvido por **Dheiver Santos**. Conecte-se no [LinkedIn](https://www.linkedin.com/in/dheiversantos) para mais projetos e discussões sobre automação e IA.
+Desenvolvido por **Dheiver Santos**. Conecte-se no [LinkedIn](https://www.linkedin.com/in/dheiver-santos/) para mais projetos e discussões sobre automação e IA.
 
 ## Contribuições
 Contribuições são bem-vindas! Se você encontrar bugs ou tiver sugestões de melhorias, abra uma issue ou envie um pull request no [repositório do GitHub](https://github.com/dheiversantos/gmail-to-sheets).
